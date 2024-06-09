@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jhonnylucius
+- 👋 Hi, I’m Luciano Ribeiro
 - 👀 I'm interested in being a developer
 - 🌱 I'm studying - Software analysis and development - Studying distance learning, so I'm already looking for more knowledge
 - 💞️ travel....music....friends...family
