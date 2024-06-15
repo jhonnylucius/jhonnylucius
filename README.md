@@ -33,8 +33,8 @@
   <a href="https://www.instagram.com/luciano.ribeiro80/">
     <img src="https://img.shields.io/badge/Instagram-8b0000?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
   </a>
-   <a href="https://discord.gg/kbNMDdpH">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://discord.gg/kbNMDdpH">
+   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"  alt="discord logo">
   </a>
 </div>
 #
