@@ -61,18 +61,7 @@
 
 ###
 
-<div align="left">
-<!--Links-->
- <a href="https://www.linkedin.com/in/luciano-ribeiro-559a05307/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
-  </a>
-  <a href="https://www.instagram.com/Luciano.ribeiro80/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
-  </a>
-</div> 
-<a href="https://discord.gg/kbNMDdpH"/>
-<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
+
 
 
 
