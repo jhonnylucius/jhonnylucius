@@ -31,12 +31,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
   <a href="https://www.instagram.com/luciano.ribeiro80/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
+    <img src="https://img.shields.io/badge/Instagram-8b0000?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
   </a>
    <a href="https://discord.gg/kbNMDdpH">
-    <img src="https://img.shields.io/badge/Discord-E4405F?style=for-the-badge&logo=discord&logoColor=white" alt="discord">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
+#
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhonnylucius&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonnylucius&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
@@ -62,9 +63,15 @@
 
 <div align="left">
 <!--Links-->
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src=(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)],(https://www.linkedin.com/in/luciano-ribeiro-559a05307/)  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+ <a href="https://www.linkedin.com/in/luciano-ribeiro-559a05307/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  </a>
+  <a href="https://www.instagram.com/Luciano.ribeiro80/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
+  </a>
+</div> 
+<a href="https://discord.gg/kbNMDdpH"/>
+<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
 
 
