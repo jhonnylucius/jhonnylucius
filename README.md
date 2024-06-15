@@ -60,6 +60,16 @@
 
 
 ###
+ 
+<div align="left">
+  <h2> Ferramentas que uso!<h2>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vccode/vccode-original.svg" height="40" alt="vccode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="eclipse logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Github/github.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+</div>
 
 
 
