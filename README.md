@@ -1,5 +1,7 @@
  
 
+ 
+
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
@@ -60,16 +62,15 @@
 
 
 ###
- 
-<div align="left">
-  <h2> Ferramentas que uso!<h2>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vccode/vccode-original.svg" height="40" alt="vccode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="eclipse logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Github/github.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-</div>
+<div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+       <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+     <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg">
+  </div>
+  
 
 
 
