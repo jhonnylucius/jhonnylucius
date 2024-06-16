@@ -21,7 +21,7 @@
 - 💞️ travel....music....friends...family<br/>
 - 📫 I hope to learn a lot from you and contribute whenever I have the opportunity, as I'm just starting out. <br/>
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 More about me. 👈🏻 click here! </summary>
 
   - 🌱 I’m currently studying at Estácio College - ADS - Systems Analysis and Development and student at DIO - Digital innovation one.<br/>
 
