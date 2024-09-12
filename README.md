@@ -18,6 +18,7 @@
 - 🌱 I'm studying - Software analysis and development - Studying distance learning, so I'm already looking for more knowledge<br/>
 - 💞️ travel....music....friends...family<br/>
 - 📫 I hope to learn a lot from you and contribute whenever I have the opportunity, as I'm just starting out. <br/>
+- 🌐 Knowledge has only one destiny, to be shared! 🌐 
 <details>
   <summary>👨‍💻 More about me. 👈🏻 click here! </summary>
 
