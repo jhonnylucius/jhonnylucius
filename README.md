@@ -43,7 +43,7 @@
    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"  alt="discord logo">
   </a>
 </div>
-#
+
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnylucius&theme=midnight-purple&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF)
