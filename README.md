@@ -59,16 +59,29 @@
 </br>
 <p align="side"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" alt="PHP"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40px" alt="Angular"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" alt="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40px" alt="Shell"/> </p>
 
-<p align="side"> <img src="https://myhbp.org/hmm12/resources/badges/career_management/badge_career_management.png" width="40px" alt="Harvard Badge"/></p></br>
-
-**[Verificar autenticidade da insígnia](https://myhbp.org/hmm12/resources/badges/career_management/pt_BR/badge_career_management.html)**
    
 🔧 Tools & Frameworks</br>
 </br>
 <p align="side"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" alt="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40px" alt="IntelliJ"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40px" alt="Eclipse"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" alt="Docker"/> </p>
 </br>
 
-
+<h3>Certificações</h3>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <div>
+        <img src="https://myhbp.org/hmm12/resources/badges/time_management/badge_time_management.png" alt="Gestão de Tempo" style="width: 50px; height: 50px;">
+        <img src="https://myhbp.org/hmm12/resources/badges/stress_management/badge_stress_management.png" alt="Gestão de Estresse" style="width: 50px; height: 50px;">
+        <img src="https://myhbp.org/hmm12/resources/badges/difficult_interactions/badge_difficult_interactions.png" alt="Interações Difíceis" style="width: 50px; height: 50px;">
+        <img src="https://myhbp.org/hmm12/resources/badges/persuading_others/badge_persuading_others.png" alt="Persuadir Outras Pessoas" style="width: 50px; height: 50px;">
+        <img src="https://myhbp.org/hmm12/resources/badges/decision_making/badge_decision_making.png" alt="Tomada de Decisão" style="width: 50px; height: 50px;">
+        <img src="https://myhbp.org/hmm12/resources/badges/career_management/badge_career_management.png" alt="Gestão de Carreira" style="width: 50px; height: 50px;">
+    </div>
+    <a href="https://myhbp.org/hmm12/resources/badges/time_management/pt_BR/badge_time_management.html" target="_blank" style="display: inline-block; margin-bottom: 10px;">Authenticity</a>
+    <a href="https://myhbp.org/hmm12/resources/badges/stress_management/pt_BR/badge_stress_management.html" target="_blank" style="display: inline-block; margin-bottom: 10px;">Authenticity</a>
+    <a href="https://myhbp.org/hmm12/resources/badges/difficult_interactions/pt_BR/badge_difficult_interactions.html" target="_blank" style="display: inline-block; margin-bottom: 10px;">Authenticity</a>
+    <a href="https://myhbp.org/hmm12/resources/badges/persuading_others/pt_BR/badge_persuading_others.html" target="_blank" style="display: inline-block; margin-bottom: 10px;">Authenticity</a>
+    <a href="https://myhbp.org/hmm12/resources/badges/decision_making/pt_BR/badge_decision_making.html" target="_blank" style="display: inline-block; margin-bottom: 10px;">Authenticity</a>
+    <a href="https://myhbp.org/hmm12/resources/badges/career_management/pt_BR/badge_career_management.html" target="_blank" style="display: inline-block; margin-bottom: 10px;">Authenticity</a>
+</div>
 
 </br>
 <p align="center">
