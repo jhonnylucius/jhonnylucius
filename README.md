@@ -65,7 +65,7 @@
 <p align="side"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" alt="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40px" alt="IntelliJ"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40px" alt="Eclipse"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" alt="Docker"/> </p>
 </br>
 
-<h3>Certificações</h3>
+<h3>Certifications</h3>
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <div>
         <img src="https://myhbp.org/hmm12/resources/badges/time_management/badge_time_management.png" alt="Gestão de Tempo" style="width: 50px; height: 50px;">
