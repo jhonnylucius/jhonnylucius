@@ -50,7 +50,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonnylucius&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
 
-![![GitHub Streak](https://streak-stats.demolab.com/?user=jhonnylucius&theme=midnight-purple&background=000&border=8300ff&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jhonnylucius&theme=midnight-purple&background=000&border=8300ff&dates=FFF)](https://git.io/streak-stats)
 
 </div>
 
