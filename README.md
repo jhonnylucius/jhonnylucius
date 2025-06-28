@@ -15,16 +15,16 @@
 <p>
 - 👋 Hi, I’m Luciano Ribeiro<br/>
 - 👀 I'm interested in being a developer<br/>
-- 🌱 I'm studying - Software analysis and development - Studying distance learning, so I'm already looking for more knowledge<br/>
+- 🌱 I'm Software analysis and development<br/>
 - 💞️ travel....music....friends...family<br/>
 - 📫 I hope to learn a lot from you and contribute whenever I have the opportunity, as I'm just starting out. <br/>
 - 🌐 Knowledge has only one destiny, to be shared! 🔥 
 <details>
   <summary>👨‍💻 More about me. 👈🏻 click here! </summary>
 
-  - 🌱 I’m currently studying at Estácio College - ADS - Systems Analysis and Development and student at DIO - Digital innovation one.<br/>
+  - 🌱 I'm passionate about challenges, and stubborn in overcoming them, lol. Java, Dart and Flutter are my focus at the moment..<br/>
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with .....???? Dart??? Java??? let the world spin! 😈👾🙌🏼😎🌐 .<br/>
+  - 🔭 I am open to partnerships in projects, work that impacts lives in the best sense of the word, I hope to always find new friends, tutors, mentors, project partners here. 😈👾🙌🏼😎🌐 .<br/>
   
 </details>
 
