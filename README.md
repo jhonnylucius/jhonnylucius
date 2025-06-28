@@ -14,7 +14,7 @@
 <!-- Presentation -->
 <p>
 - 👋 Hi, I’m Luciano Ribeiro<br/>
-- 👀 I'm interested in being a developer<br/>
+- 👀 I am always interested in contributing<br/>
 - 🌱 I'm Software analysis and development<br/>
 - 💞️ travel....music....friends...family<br/>
 - 📫 I hope to learn a lot from you and contribute whenever I have the opportunity, as I'm just starting out. <br/>
@@ -22,7 +22,7 @@
 <details>
   <summary>👨‍💻 More about me. 👈🏻 click here! </summary>
 
-  - 🌱 I'm passionate about challenges, and stubborn in overcoming them, lol. Java, Dart and Flutter are my focus at the moment..<br/>
+  - 🌱 I'm passionate about challenges and I'm obsessed with overcoming them, lol. Java, Dart and Flutter are my focus at the moment...<br/>
 
   - 🔭 I am open to partnerships in projects, work that impacts lives in the best sense of the word, I hope to always find new friends, tutors, mentors, project partners here. 😈👾🙌🏼😎🌐 .<br/>
   
