@@ -59,7 +59,7 @@
   <!-- <img src="https://streak-stats.demolab.com/?user=jhonnylucius&theme=midnight-purple&hide_border=true&fire=8300ff&currStreakLabel=8300ff" 
        alt="GitHub Streak" 
        height="165" /> -->
-</div>
+<!-- </div> -->
   
 </div>>
 
