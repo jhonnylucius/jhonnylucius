@@ -28,38 +28,40 @@
   
 </details>
 
-</p>
 
-###
 
 <div align="center">
- <a href="https://www.linkedin.com/in/luciano-ribeiro-559a05307">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
-  </a>
-  <a href="https://www.instagram.com/luciano.ribeiro80/">
-    <img src="https://img.shields.io/badge/Instagram-8b0000?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
-  </a>
-  <a href="https://discord.gg/95n7B3cEV9">
-   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"  alt="discord logo">
-  </a>
-</div>
+  
+  <!-- Mensagem temporária enquanto os stats não carregam -->
+  <div style="display: inline-block; margin: 10px; padding: 20px; background: #1a1a2e; border-radius: 10px; min-width: 300px;">
+    <h3>📊 GitHub Stats</h3>
+    <p>Stats carregando...</p>
+    <small>Atualizando dados do GitHub</small>
+  </div>
+  
+  <div style="display: inline-block; margin: 10px; padding: 20px; background: #1a1a2e; border-radius: 10px; min-width: 300px;">
+    <h3>💻 Top Languages</h3>
+    <p>Java • Dart • HTML • CSS • JavaScript</p>
+  </div>
 
-<div align="center">
+  <!--<div align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnylucius&theme=midnight-purple&layout=compact&hide_border=true" 
+  <!-- img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnylucius&theme=midnight-purple&layout=compact&hide_border=true" 
        alt="Top Langs" 
-       height="165" />
+       height="165" 
   
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonnylucius&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" 
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=jhonnylucius&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" 
        alt="GitHub stats" 
        height="165" />
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=jhonnylucius&theme=midnight-purple&hide_border=true&fire=8300ff&currStreakLabel=8300ff" 
+  <!-- <img src="https://streak-stats.demolab.com/?user=jhonnylucius&theme=midnight-purple&hide_border=true&fire=8300ff&currStreakLabel=8300ff" 
        alt="GitHub Streak" 
-       height="165" />
+       height="165" /> -->
 </div>
+  
+</div>>
 
 ## 📚 Studying in this moment
 
