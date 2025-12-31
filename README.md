@@ -42,7 +42,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhonnylucius&theme=github_dark" 
        width="45%" />
   
-</div>
+
 
   <!--<div align="center">
   <!-- Top Languages -->
