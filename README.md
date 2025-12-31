@@ -45,13 +45,13 @@
 </div>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnylucius&theme=midnight-purple&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF" alt="Top Langs" />
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnylucius&theme=midnight-purple&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF)
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonnylucius&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true" alt="GitHub stats" />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonnylucius&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jhonnylucius&theme=midnight-purple&background=000&border=8300ff&dates=FFF)](https://git.io/streak-stats)
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=jhonnylucius&theme=midnight-purple&background=000&border=8300ff&dates=FFF" alt="GitHub Streak" />
+  </a>
 </div>
 
 ## 📚 Studying in this moment
