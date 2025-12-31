@@ -56,12 +56,12 @@
        height="165" />
 
   <!-- GitHub Streak -->
-  <!-- <img src="https://streak-stats.demolab.com/?user=jhonnylucius&theme=midnight-purple&hide_border=true&fire=8300ff&currStreakLabel=8300ff" 
+  <img src="https://streak-stats.demolab.com/?user=jhonnylucius&theme=midnight-purple&hide_border=true&fire=8300ff&currStreakLabel=8300ff" 
        alt="GitHub Streak" 
-       height="165" /> -->
+       height="165" /> 
 <!-- </div> -->
   
-</div>>
+</div>
 
 ## 📚 Studying in this moment
 
