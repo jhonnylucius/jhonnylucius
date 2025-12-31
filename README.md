@@ -32,17 +32,17 @@
 
 <div align="center">
   
-  <!-- Mensagem temporária enquanto os stats não carregam -->
-  <div style="display: inline-block; margin: 10px; padding: 20px; background: #1a1a2e; border-radius: 10px; min-width: 300px;">
-    <h3>📊 GitHub Stats</h3>
-    <p>Stats carregando...</p>
-    <small>Atualizando dados do GitHub</small>
-  </div>
+  <!-- Stats Cards - Funciona 100% -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonnylucius&theme=github_dark" 
+       alt="Profile Details" 
+       width="100%" />
   
-  <div style="display: inline-block; margin: 10px; padding: 20px; background: #1a1a2e; border-radius: 10px; min-width: 300px;">
-    <h3>💻 Top Languages</h3>
-    <p>Java • Dart • HTML • CSS • JavaScript</p>
-  </div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhonnylucius&theme=github_dark" 
+       width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhonnylucius&theme=github_dark" 
+       width="45%" />
+  
+</div>
 
   <!--<div align="center">
   <!-- Top Languages -->
