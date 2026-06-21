@@ -43,18 +43,6 @@
        width="45%" />
   
 
-
-  <!--<div align="center">
-  <!-- Top Languages -->
-  <!-- img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnylucius&theme=midnight-purple&layout=compact&hide_border=true" 
-       alt="Top Langs" 
-       height="165" 
-  
-  <!-- GitHub Stats -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=jhonnylucius&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" 
-       alt="GitHub stats" 
-       height="165" />
-
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com/?user=jhonnylucius&theme=midnight-purple&hide_border=true&fire=8300ff&currStreakLabel=8300ff" 
        alt="GitHub Streak" 
