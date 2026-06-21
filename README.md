@@ -24,7 +24,7 @@
 
   - 🌱 I'm passionate about challenges and I'm obsessed with overcoming them, lol. Java, Dart and Flutter are my focus at the moment...<br/>
 
-  - 🔭 I am open to partnerships in projects, work that impacts lives in the best sense of the word, I hope to always find new friends, tutors, mentors, project partners here. 😈👾🙌🏼😎🌐 .<br/>
+  - 🔭 I am open to partnerships in projects, work that impacts lives in the best sense of the word, I hope to always find new friends, tutors, mentors, project partners here. 😈👾🙌🏼😎😎🌐 .<br/>
   
 </details>
 
